@@ -2,6 +2,7 @@
 
 ![Tensorflow](https://github.com/tiprock-network/predictbirthTime-ML/blob/main/TensorFlow_Logo_with_text-removebg-preview.png?raw=true)
 ![Scikit Learn](https://github.com/tiprock-network/predictbirthTime-ML/blob/main/sklearn.png?raw=true)
+<br>
 Predict delivery time of an expectant mother at a specific time using BMI, Weight and Blood pressure
 
 ### Relevant Models chosen for this project:
