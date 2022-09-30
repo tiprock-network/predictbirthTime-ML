@@ -1,4 +1,4 @@
-# predictbirthTime-ML
+# Predict Birth Time (Supervised ML)
 
 ![Tensorflow](https://github.com/tiprock-network/predictbirthTime-ML/blob/main/TensorFlow_Logo_with_text-removebg-preview.png?raw=true)
 ![Scikit Learn](https://github.com/tiprock-network/predictbirthTime-ML/blob/main/sklearn.png?raw=true)
